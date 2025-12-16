@@ -19,6 +19,10 @@
   <li><strong>Model:</strong> CNN trained on Kaggle dataset (digits 1–9)</li>
 </ul>
 
+<h2>🎥 Video Link of the Demo<\h2>
+<a href="https://drive.google.com/file/d/1FAq8XycbCRtoZnkP5xXUnmeYsvL5E6gW/view"><u>Link<\u></a>
+
+
 <h2>📦 Project Modules</h2>
 <ul>
   <li><code>app/</code> - Android application source code</li>
