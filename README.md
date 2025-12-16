@@ -20,7 +20,7 @@
 </ul>
 
 <h2>🎥 Video Link of the Demo<\h2>
-<a href="https://drive.google.com/file/d/1FAq8XycbCRtoZnkP5xXUnmeYsvL5E6gW/view"><u>Link<\u></a>
+<u><a href="https://drive.google.com/file/d/1FAq8XycbCRtoZnkP5xXUnmeYsvL5E6gW/view">Link</a></u>
 
 
 <h2>📦 Project Modules</h2>
