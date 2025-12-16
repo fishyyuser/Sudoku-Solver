@@ -19,7 +19,7 @@
   <li><strong>Model:</strong> CNN trained on Kaggle dataset (digits 1–9)</li>
 </ul>
 
-<h2>🎥 Video Link of the Demo<\h2>
+<h2>🎥 Video Link of the Demo</h2>
 [Link](https://drive.google.com/file/d/1FAq8XycbCRtoZnkP5xXUnmeYsvL5E6gW/view)
 
 
